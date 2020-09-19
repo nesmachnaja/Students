@@ -1,0 +1,9 @@
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FormStud.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FormTable.resources

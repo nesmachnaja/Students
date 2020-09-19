@@ -1,0 +1,1 @@
+﻿delete from students where Id=7
